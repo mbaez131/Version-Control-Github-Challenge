@@ -1,0 +1,1 @@
+Terminal is a way to directly input commands for what you need and want on your mac. It is a great tool. The difference between git and github is that git is for version control, it allows you to look at your source code. Github allows you to create and manage repositories. We use github to work in project teams, to minimize effort and maximize efficiency. > exercise.txt
